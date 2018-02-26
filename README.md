@@ -1,4 +1,5 @@
 # reto1-mobile 
+Tecnica Pomodoro
 En este reto aprendi diferentes cosas como la tecnica de pomodoro la cual desconocia y como puede aumentar 
 mi productividad solo enfocandome en cada tarea dada.
 
